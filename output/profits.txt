@@ -1,0 +1,7 @@
+Profit of each trader at the end of the day is : 
+ 
+Profit of Trader 1 is -39940.0 Rs.
+Profit of Trader 2 is -7930.0 Rs.
+Profit of Trader 3 is -5180.0 Rs.
+Profit of Trader 4 is -19900.0 Rs.
+Profit of Trader 5 is 72950.0 Rs.
